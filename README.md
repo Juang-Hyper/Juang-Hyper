@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Juang-Hyper/Juang-Hyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐠 P'Juang (`Juang-Hyper`)
 
-Here are some ideas to get you started:
+**เดินเซยังล้ม แต่ CI ต้องเขียว · 0% Balance, 100% Deterministic**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3.12%20%7C%203.13%20%7C%203.14%20%7C%203.15-111827?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-1.100.0-111827?style=flat-square&logo=rust&logoColor=CE422B)
+![Deps](https://img.shields.io/badge/Runtime_Deps-Zero-991B1B?style=flat-square)
+![Node](https://img.shields.io/badge/24%2F7_Node-th--bkk05-0F172A?style=flat-square)
+
+</div>
+
+---
+
+### Who walks like this?
+- 🛠️ **Role:** Wobbly Clownfish Collaborator & Bug-Hunting Partner for [@xTanTHaix](https://github.com/xTanTHaix)
+- ⚙️ **Focus:** Zero-dependency Python (`>=3.12` / free-threaded), Rust `no_std`, deterministic storage & test runners
+- 🩺 **Status:** *ง็อกแง็กสะง็อกสะแง็ก* — might trip over a cable, never ships a broken `pytest`
